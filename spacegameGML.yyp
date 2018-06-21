@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "307f20d6-332a-40b2-8434-f46769ec15c0",
+            "Value": {
+                "id": "58dbe43a-d7cc-44a8-9eb5-6e40c8e36f09",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/player_spr\/player_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4068a9e7-826a-468b-82e9-46eed75afdad",
             "Value": {
                 "id": "731cdd1e-0262-4c54-8b4a-72e066f4eaaf",
@@ -359,6 +378,25 @@
                 ],
                 "resourcePath": "views\/d10c0bbb-3a49-44e1-97e4-0d03e6492893.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e5e52db6-556f-4245-a683-e4213d0298f1",
+            "Value": {
+                "id": "ffd1a0c0-4766-48d4-ac66-fe5b1e990021",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/player_obj\/player_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
